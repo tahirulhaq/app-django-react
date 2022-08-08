@@ -9,8 +9,3 @@ This app uses REST api to fetch data from django and display via react
 4) create react app in root folder
 5) connect react with django using axios
 
-> For detailed tutorial, visit
-
-https://blog.logrocket.com/using-react-django-create-app-tutorial/
-
-> Special thanks to logrocket for creating this tutorial
